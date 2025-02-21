@@ -1,0 +1,9 @@
+#container{
+    border: black solid;
+    border-radius: 20px;
+
+
+}
+.item{
+    border-radius: 5px;
+}
